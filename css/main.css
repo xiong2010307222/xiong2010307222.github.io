@@ -5,8 +5,13 @@
 }
 .frozen{
  color:blue;
+ width:70px;
+ margin:11px;
+ padding:6px;
 }
  
 
 #eins{
  color:red;
+
+ 
